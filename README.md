@@ -42,11 +42,12 @@ cd <repository_name>
 
 ### 2. Download Datasets
 https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
+
 https://archive.ics.uci.edu/dataset/608/traffic+flow+forecasting
 
 ### 3. Create a Virtual Environment
 ```bash
-python -m venv venv
+python3 -m venv venv
 source venv/bin/activate   # macOS/Linux
 venv\Scripts\activate    # Windows
 ```
@@ -54,7 +55,7 @@ venv\Scripts\activate    # Windows
 ### 4. Install Dependencies
 Install the required Python packages:
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ### 5. Verify Installation
