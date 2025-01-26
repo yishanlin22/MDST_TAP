@@ -40,20 +40,24 @@ git clone <repository_url>
 cd <repository_name>
 ```
 
-### 2. Create a Virtual Environment
+### 2. Download Datasets
+https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
+https://archive.ics.uci.edu/dataset/608/traffic+flow+forecasting
+
+### 3. Create a Virtual Environment
 ```bash
 python -m venv venv
 source venv/bin/activate   # macOS/Linux
 venv\Scripts\activate    # Windows
 ```
 
-### 3. Install Dependencies
+### 4. Install Dependencies
 Install the required Python packages:
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Verify Installation
+### 5. Verify Installation
 Run the following to ensure the environment is set up correctly:
 ```bash
 python3 -m pip list
