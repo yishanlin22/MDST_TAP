@@ -79,14 +79,14 @@ python3 -m pip list
 ## Requirements
 The required Python packages are listed in `requirements.txt`:
 ```
-pandas==1.5.3
-numpy==1.24.2
-matplotlib==3.7.1
-seaborn==0.12.2
-scikit-learn==1.2.2
-scipy==1.10.1
-torch==1.13.1
-torchvision==0.14.1
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+torch
+torchvision
 ```
 
 ### Note:
