@@ -1,5 +1,8 @@
 # MDST Traffic Accident Prediction
 
+## Interactive Map Link
+https://mdst-tap-deployed.onrender.com
+
 A **machine learning model** trained on real-world traffic data to predict accident severity.
 
 ## Features
